@@ -4,7 +4,12 @@ Repository following the book: Warren Buffett and interpretation of financial st
 ## Introduction
 ```
  You have to understand accounting and you have to
- understand the nuances of accounting. It's the language of business and it's an imprefect language, but unless you are willing to put in the effort to learn accounting - how to read and interpret financial statements - you really shouldn't select stocks yourself. 
+ understand the nuances of accounting. 
+ It's the language of business and it's an 
+ imprefect language, but unless you are willing to
+ put in the effort to learn accounting - how to 
+ read and interpret financial statements - you 
+ really shouldn't select stocks yourself. 
 
  Warren Buffet
 ```
