@@ -141,7 +141,184 @@ Net income and divide it by shares outstanding. Warren is looking for a consiste
 ---
 
 ## Balance Sheet
+```
+One of the things you will find which is interesting
+and people don't think of it enough with most business and with most individuals is life tends to
+snap you at your weakest links. The two biggest weak links in my experiance: I've seen more people 
+fail because of liquor and leverage - leverage being borrowed money. 
 
-## The Cash Flow Statement  
+Warren Buffett
+```
+
+### Balance sheet in general
+How much the company has in assets and how much it owes to vendors. 
+Balance sheets reports: 
+ - Assets
+   - Cash
+   - Receivables
+   - Inventory
+   - Property
+   - Plant
+   - Equipment
+ - Liabilities
+   - Current (within the year)
+   - Long term (due in one year or more)
+
+The net worth of the company is equal to the assets minus the liabilities which is the same as the shareholders equity
+
+```
+Balance Sheet
+($ in milions)
+
+Assets
+
+Cash & Short term investements $4,208
+Total inventory                 2,220
+Total receivables, net          3,317
+Prepaid expenses                2,260
+Other current assets, total         0
+-------------------------------------
+Total current assets           12,005
+
+Property/Plant/Equipments       8,493
+Goodwill, net                   4,246
+Intangibles, net                7,863
+Long-term investements          7,777
+Other long-term assets          2,675
+Other assets                        0
+-------------------------------------
+Total assets                  $43,059
+
+Liabilities
+
+Account payable                $1,380
+Accrued expenses                5,535
+Short-term debt                 5,919
+Long-term debt due                133
+Other current liabilities         258
+-------------------------------------
+Total current liabilities      13,225
+
+Long-term debt                  3,277
+Deferred income tax             1,890
+Minority interest                   0
+Other liabilities               3,133
+-------------------------------------
+Total liabilities              21,525
+
+Shareholders Equity
+
+Preferred Stock                     0
+Common Stock                      880
+Additional paid in capital      7,378
+Retained earnings              36,235
+Treasury stock - common       -23,375
+Other equity                      626
+-------------------------------------
+Total Shareholders equity      21,744
+
+Total liabilities & 
+Shareholders equity           $43,269
+```
+---
+## Assets
+ - Current assets - cash and cash equivalents, short term investements, net receivables, inventory and other
+ - Long-term assets
+
+#### Current asset cycle: How the money is made
+
+### Cash and cash equivalents: Warren's pile of loot
+A company basically has three ways og generating a large stockpile of cash
+ - Sell new bonds or equity to the public
+ - Sell an existing business
+ - From an ongoing business that generates more than it burns
+
+Check the last seven years to see exatcly what is creating all the cash.
+
+### Inventory: What the company needs to buy and what the company needs to sell
+
+- Look for an invenoty and net earnings on the rise, this indicates that the companyfinds profitable ways to increase sales, that increase in sales has called for increase in the inventory so that the company can fulfill orders in no time
+
+### Net receivables: Money owned to the company 
+
+### Prepaid expenses/Other current assets
+
+### Total current assets and the current ration
+Current ration = Current assets / current liabilities
+In general a current ration over 1 is considered good but there are many exceptions.
+
+### Property, plant and equipment: For Warren not having them can be a good thing
+A company with durable competative advantage can fincance new plants and equipments internally. A company that doesn't will be forced to turn to debt to finance its constant need.
+
+### Goodwill
+
+### Intangible assets: measuring the unmeasurable
+
+### Long-term investements: One of the secrets to warren's success
+
+### Other long-term assets
+
+### Total assets and ROA
+ROA = net earnings / total assets
+
+---
+### Current liabilities
+
+### Account payables, accrued expenses and other current liabilities
+
+### Short term debt: How it can kill a financial institutuion
+
+### Long-term debt coming due and the troubles it can cause
+Companies with competative advantage rarely depend on long-term debt to maintain their business operations.
+
+### Total current liabilities and the current ration
+
+### Long-term debt: Something that great companies don't have a lot of
+Company should have sufficient yearly net earnings to pay off all of its long-term debt within a three-four years earnings period.
+
+### Deferred income tax, minority interest and other liabilities
+
+### Total liabilites and the debt to shareholders equity ratio
+Debt to shareholders equity ratio = Total liabilities / shareholders equity
+
+It is easy to identify companies with durable advantage when we look at the treasury shared-adjusted debt to shareholders equity ratio
+
+### Shareholders equity/Book value
+
+### Preferred and common stocks:Additional paid in capital
+
+### Retained earnings: Warren's secret for getting superrich
+Net earnings can be used to paid out as dividents, buy back shares or retained to grow the company.
+
+Retained earnings = Net earnings - (expenditures for buying back shares + paid out dividents)
+
+In theory: the more earnings a company retains the faster it grows its retained earnings pool which in turn will increase growth rate of future retained earnings.
+
+### Treasury Stocks: Warren likes to see this on the balance sheet
+
+After buying back shares a company can either cancel them or retain them, in case it retains them they are listed on the balance sheet as treasury stocks
+
+The presence of treasury stocks on the balance sheet and a history of buying back shares are a good indicator that the company in question has durable competative advantage.
+
+### Return on shareholders equity: Part one
+
+### Return on shareholders equity: Part two
+
+Net earnings / Shareholders equity = Return on shareholders equity
+
+Companies with durable competative advantage show higher return on shareholders equity
+
+### The problem with leverage and the tricks it can play on you
+
+## The Cash Flow Statement 
+```
+There is a huge difference between business that 
+grows and requires lots of capital to do so and 
+the business that grows and doesn't require capital.
+
+Warren Buffett
+``` 
+
+### The cash flow statement: Where Warren goes to find the cash
 
 ## Valuing The Company With A Durable Competitive Advantage
