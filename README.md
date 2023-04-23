@@ -320,5 +320,54 @@ Warren Buffett
 ``` 
 
 ### The cash flow statement: Where Warren goes to find the cash
+ - Cash flow from operating activities
+ ```
+ ($ in millions)
+ 
+ Net income            $5,981
+ Depreciation           1,163
+ Amortization             125
+ ----------------------------
+ Total Cash from 
+ Operating Activities  $7,260
+ ```
+
+ - Cash from investing operations
+ ```
+ ($ in millions)
+ 
+ Capital Expenditures  $1,648
+ Other Investing
+ Cash Flow Items        5,071
+ ----------------------------
+ Total Cash from 
+ Investing Activities  $6,719
+ ```
+
+ - Financing Activities
+ ```
+ ($ in millions)
+ 
+ Cash Dividents Paid                  $3,149
+ Issuance(Retirement) of Stock, Net      219
+ Issuance(Retirement) of Debt, Net     4,341
+ -------------------------------------------
+ Total Cash from 
+ Financing Activities                  $973
+ ```
+
+ If we add Total Cash from Operating, Investing and Financing activities we get the company's net change in cash.
+
+ ```
+ ($ in millions)
+
+ Total Cash from Operating Activities $7,269
+ Total Cash from Investing Activities  6,719
+ Total Cash from Financing Activities    973
+ -------------------------------------------
+ Net Change in Cash                   $1,523
+ ```
+
+#### Capital Expenditures - Not having them is one of the secrets of getting rich
 
 ## Valuing The Company With A Durable Competitive Advantage
