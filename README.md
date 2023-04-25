@@ -370,4 +370,33 @@ Warren Buffett
 
 #### Capital Expenditures - Not having them is one of the secrets of getting rich
 
+Company with durable competative advantage uses a
+smaller portion of its earnings for capital expenditures for continuing operations.
+
+Less than 50% of its earnings as capital expenditures - potential durable competative advantage
+Less than 25% of its earnings as capital expenditures - benefits from durable competative advantage
+
+#### Stock Buybacks: Warrens tax-free Way to increase shareholders wealth
+
 ## Valuing The Company With A Durable Competitive Advantage
+```
+I look for business in which I think I can predict
+what they're going to look line in ten to fifteen years time. Take Wringley's chewing gum. I don't think that the internet is going to hcange how people chew gum.
+
+Warren Buffett
+```
+#### Revolutionary Idea of the Equity Bond and How It Made Him Rich
+
+#### The Ever-Increasing Yield Created By The Durable Competitive Advantage
+
+#### More Ways to Vaue a Company With Durable Competitive Advantage
+
+#### How Warren Determines The Right Time to Buy a Fantastic Business
+Fantastic companies seldom sell for bargain price by the Grahamian perspective.
+So when do you buy them? In bear markets.
+
+#### How Warren Determines It Is Time to Sell
+As general rule we never sell companies with durable competative advantage.
+If we consider a sale, let it be for one of the following two reasonos: 
+ - financing a purchase of even better company
+ - in case of a bull market and a great returns now compared to the long term target
